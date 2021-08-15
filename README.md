@@ -9,3 +9,7 @@ Benjamin Levy
 Dimitris Vamvourellis
 Will Fried
 Matthieu Meeus
+
+My main contributions were:
+1. Estimating the ground truth popularity of each candidate (see "ground truth popularity" section of https://benlevyx.github.io/twitter-polling/data/)
+2. Building the Bayesian model (see "Bayesian model" section of https://benlevyx.github.io/twitter-polling/modeling/)
